@@ -5,6 +5,8 @@
 
 <!--
 
+Ver: https://github.com/lauragift21
+
 [![Linkedin: Ghazi](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/ghazi-khan/)
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
