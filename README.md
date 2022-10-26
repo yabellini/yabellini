@@ -1,7 +1,20 @@
 ### Hi there 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/yabellini?style=social)
-[![GitHub yabellini](https://img.shields.io/github/followers/yabellini?label=follow&style=social)](https://github.com/yabellini)
+
+
+
+### Where to find me 🌍
+
+- Doing Community managment at [rOpenSci](https://ropensci.org/) 📦
+- Blogging about programming (with R), Education, Community, Research Software Engenieer, Open Science-Education-Data at [my personal website](https://yabellini.netlify.app/) ✍️
+- Co-leading [R-Ladies Global](https://rladies.org/) 💜
+- Supporting latin american science and education with [The Carpentries](https://carpentries.org/) 🔧
+- Organizing [LatinR](https://latin-r.com/) 🚀
+- Editing at [The Journal of Open Source Education](https://jose.theoj.org/) 🎓
+- [Tweeting](https://twitter.com/yabellini) 🐥 about all these topic that interests me ![Twitter Follow](https://img.shields.io/twitter/follow/yabellini?style=social)
+- Delivering [talks](https://yabellini.netlify.app/talk/) (some of them you can watch by [video](https://www.youtube.com/channel/UCA7IUNba2IjQfrVVjh2Whmw) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCA7IUNba2IjQfrVVjh2Whmw?style=social), ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCA7IUNba2IjQfrVVjh2Whmw?style=social))
+- [Posting new projects](https://yabellini.netlify.app/project/) 💻, and [sharing my open teaching materials](https://yabellini.netlify.app/courses/) 🍎
+- Coding (you are here!) [![GitHub yabellini](https://img.shields.io/github/followers/yabellini?label=follow&style=social)](https://github.com/yabellini)
 
 <!--
 
@@ -9,8 +22,7 @@ Ver: https://github.com/lauragift21
 
 [![Linkedin: Ghazi](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/ghazi-khan/)
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
 
@@ -45,15 +57,6 @@ Here are some ideas to get you started:
 - 👩🏼‍🎨 [**TidyTuesday**](https://github.com/cosimameyer/TidyTuesday) is like a playground for me to try out something new
 - 👩🏼‍💻 Giving talks and workshops about [**ShinyApps**](https://github.com/cosimameyer/conflict-elections), [**NLP**](https://github.com/cosimameyer/nlp-talk), and [**package development**](https://cosimameyer.rbind.io/slides/overviewr/talk#1) 
 - 🕊 In the past, I also **studied conflicts and development worldwide** and enjoyed teaching courses in computational social sciences and peace and conflict studies at the university. You can find a repository with my [teaching material](https://github.com/cosimameyer/complexities-in-analyzing-conflict-course-material) 👩🏼‍🏫 and material for a [ShinyApp](https://github.com/cosimameyer/conflict-elections) that I created ✨
-
-## Where to find me 🌍
-
-- Blogging about data science at [Methods Bites](https://www.mzes.uni-mannheim.de/socialsciencedatalab/) 👾
-- Co-organizing [R-Ladies Cologne](https://linktr.ee/rladies_cologne) 💜
-- Data for good @ [CorrelAid](https://correlaid.org/)
-- Supporting young scholars in the field of social sciences as a chairwoman at [RAM e.V.](https://www.ram-ev.de) 🎓
-- [Tweeting](https://twitter.com/cosima_meyer) 🐥 about what interests me
-- [Posting new projects on my website](https://cosimameyer.rbind.io) 💻, and [updates on LinkedIn](https://www.linkedin.com/in/cosimameyer/) 👩🏼‍💼
 
 ## Latest blog posts 📝
 
