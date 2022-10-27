@@ -5,7 +5,7 @@
 
 ### Where to find me 🌍
 
-- Doing Community managment at [rOpenSci](https://ropensci.org/) 📦
+- Doing Community management at [rOpenSci](https://ropensci.org/) 📦
 - Blogging about programming (with R), Education, Community, Research Software Engenieer, Open Science-Education-Data at [my personal website](https://yabellini.netlify.app/) ✍️
 - Co-leading [R-Ladies Global](https://rladies.org/) 💜
 - Supporting latin american science and education with [The Carpentries](https://carpentries.org/) 🔧
