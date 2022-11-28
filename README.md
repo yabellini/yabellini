@@ -12,9 +12,9 @@
 - Organizing [LatinR](https://latin-r.com/) 🚀
 - Editing at [The Journal of Open Source Education](https://jose.theoj.org/) 🎓
 - <a rel="me" href="https://fosstodon.org/@yabellini">Posting at Mastodon</a> about all these topic that interests me !
-- [Tweeting](https://twitter.com/yabellini) about all these topic that interests me ![Twitter Follow](https://img.shields.io/twitter/follow/yabellini?style=social)
 - Delivering [talks](https://yabellini.netlify.app/talk/) (some of them you can watch by [video](https://www.youtube.com/channel/UCA7IUNba2IjQfrVVjh2Whmw) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCA7IUNba2IjQfrVVjh2Whmw?style=social), ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCA7IUNba2IjQfrVVjh2Whmw?style=social))
 - [Posting new projects](https://yabellini.netlify.app/project/) 💻, and [sharing my open teaching materials](https://yabellini.netlify.app/courses/) 🍎
+- [Tweeting](https://twitter.com/yabellini) about all these topic that interests me ![Twitter Follow](https://img.shields.io/twitter/follow/yabellini?style=social)
 - Coding (you are here!) [![GitHub yabellini](https://img.shields.io/github/followers/yabellini?label=follow&style=social)](https://github.com/yabellini)
 
 <!--
