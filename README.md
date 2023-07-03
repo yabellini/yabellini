@@ -14,7 +14,6 @@
 - <a rel="me" href="https://fosstodon.org/@yabellini">Posting at Mastodon</a> about all these topic that interests me !
 - Delivering [talks](https://yabellini.netlify.app/talk/) (some of them you can watch by [video](https://www.youtube.com/channel/UCA7IUNba2IjQfrVVjh2Whmw) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCA7IUNba2IjQfrVVjh2Whmw?style=social), ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCA7IUNba2IjQfrVVjh2Whmw?style=social))
 - [Posting new projects](https://yabellini.netlify.app/project/) 💻, and [sharing my open teaching materials](https://yabellini.netlify.app/courses/) 🍎
-- [Tweeting](https://twitter.com/yabellini) about all these topic that interests me ![Twitter Follow](https://img.shields.io/twitter/follow/yabellini?style=social)
 - Coding (you are here!) [![GitHub yabellini](https://img.shields.io/github/followers/yabellini?label=follow&style=social)](https://github.com/yabellini)
 
 <!--
@@ -67,4 +66,3 @@ Here are some ideas to get you started:
 <!-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/3" alt="Recent Article 3"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cosimameyer/4" alt="Recent Article 4"> -->
 
--->
