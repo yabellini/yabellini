@@ -6,7 +6,7 @@
 - Blogging about programming (with R), Education, Community, Research Software Engenieer, Open Science-Education-Data at [my personal website](https://yabellini.netlify.app/) ✍️
 - Co-leading [R-Ladies Global](https://rladies.org/) 💜
 - Supporting latin american science and education with [The Carpentries](https://carpentries.org/) 🔧
-- Organizing [LatinR](https://latin-r.com/) (,and [CSV 2023](https://csvconf.com/), and [useR!](https://user2021.r-project.org/) [x2](https://user2022.r-project.org/), and [JAIIO](https://49jaiio.sadio.org.ar/) [x2](https://50jaiio.sadio.org.ar/))🚀
+- Organizing [LatinR](https://latin-r.com/) (,and [CSC,Conf] x2](https://csvconf.com/), and [useR!](https://user2021.r-project.org/) [x2](https://user2022.r-project.org/), and [JAIIO](https://49jaiio.sadio.org.ar/) [x2](https://50jaiio.sadio.org.ar/))🚀
 - Editing at [The Journal of Open Source Education](https://jose.theoj.org/) 🎓
 - <a rel="me" href="https://fosstodon.org/@yabellini">Posting at Mastodon</a> about all these topic that interests me !
 - Delivering [talks](https://yabellini.netlify.app/talk/) (some of them you can watch by [video](https://www.youtube.com/channel/UCA7IUNba2IjQfrVVjh2Whmw) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCA7IUNba2IjQfrVVjh2Whmw?style=social), ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCA7IUNba2IjQfrVVjh2Whmw?style=social))
